@@ -16,3 +16,5 @@ Run: open `final/COS10022_A1_Workflow` in KNIME (or import the `.knwf` from the 
 *Execute all*. All paths are relative to the workflow; all random nodes use seed 2026.
 
 Generative AI (Claude) assisted with this project; see the declaration in the report appendix.
+
+Continuing with Claude Code? Read [`CLAUDE.md`](CLAUDE.md) first (Claude Code loads it automatically): project state, rules and the remaining to-do list.
