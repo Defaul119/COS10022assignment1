@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <created>2026-10-10T10:00:00.000+07:00</created>
+    <last-modified>2026-10-10T10:00:00.000+07:00</last-modified>
+    <description>COS10022 Assignment 1. Task 1: logistic regression trained on accident_2025_train2_73.csv and tested on accident_2025_test2_73.txt. Task 2: all CSV files in src split by Survived, 350 rows per class drawn into a 700-row training set, the remainder as the test set, both shuffled; logistic regression, naive Bayes and random forest compared on identical sets.</description>
+    <tags>
+        <tag>classification</tag>
+        <tag>logistic regression</tag>
+        <tag>naive bayes</tag>
+        <tag>random forest</tag>
+    </tags>
+</workflow-metadata>

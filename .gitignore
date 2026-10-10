@@ -1,0 +1,17 @@
+# KNIME workspace state (machine-specific, ~80 MB) and lock files
+.metadata/
+.knimeLock
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+# Generated submission package (rebuilt by final/package_submission.py) and videos (too large for GitHub)
+final/submission/
+final/*.zip
+*.mp4
+*.mov
+*.mkv
+*.avi
+__pycache__/

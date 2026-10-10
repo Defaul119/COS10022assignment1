@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is auto-generated and is overwritten each time the workflow is saved.
+    The metadata have moved to the `workflow-metadata.xml` file.-->
+<KNIMEMetaInfo nrOfElements="3" xmlns="http://www.knime.org/2.9/metainfo">
+    <element form="date" name="Creation Date" read-only="false">10/9/2026/10:00:00 +07:00</element>
+    <element form="multiline" name="Comments" read-only="false">COS10022 Assignment 1. Task 1: logistic regression trained on accident_2025_train2_73.csv and tested on accident_2025_test2_73.txt. Task 2: all CSV files in src split by Survived, 350 rows per class drawn into a 700-row training set, the remainder as the test set, both shuffled; logistic regression, naive Bayes and random forest compared on identical sets.
+
+TAGS: classification,logistic regression,naive bayes,random forest</element>
+    <element form="text" name="Last Edited" read-only="true">2026-10-10 10:00:00 +0700</element>
+</KNIMEMetaInfo>

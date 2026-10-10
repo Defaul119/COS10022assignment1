@@ -1,0 +1,5 @@
+# Store the original data and the KNIME workflow byte-for-byte (no line-ending conversion)
+src/** -text
+final/COS10022_A1_Workflow/** -text
+*.pdf binary
+*.png binary
